@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey there! 👋 I'm João
 
-<!--
-**jsantos42/jsantos42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a former medical doctor 🩺 turned software developer 💻
 
-Here are some ideas to get you started:
+👨‍💻 I currently work mostly with **Typescript**, but I've programmed with **Python**, **R**, **C**, **C++**, **JavaScript** and **PHP**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗣️ I speak 🇬🇧🇵🇹🇫🇷🇮🇹 and understand 🇪🇸 (lost the ability to speak it after learning italian!)
+
+📍 I've lived in **Lisbon**, **Paris**, **Bari**, and am currently thinking of moving to **Barcelona**
+
+❤️ I love good food, exercise and being outdoors. Oh, and learning!
+
+Feel free to reach out!
