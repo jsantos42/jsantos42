@@ -2,7 +2,7 @@
 
 I'm a former medical doctor 🩺 turned software developer 💻
 
-👨‍💻 I currently work mostly with **Typescript**, but I've programmed with **Python**, **R**, **C**, **C++**, **JavaScript** and **PHP**
+👨‍💻 I currently work mostly with **Typescript** and **PHP**, but I've programmed with **Python**, **R**, **C**, **C++** and **JavaScript**.
 
 🗣️ I speak 🇬🇧🇵🇹🇫🇷🇮🇹 and understand 🇪🇸 (lost the ability to speak it after learning italian!)
 
